@@ -1,0 +1,13 @@
+.banner{
+    background-image: url('https://img.freepik.com/free-vector/realistic-horizontal-sale-banner-template-with-photo_23-2149017940.jpg?w=996&t=st=1695275514~exp=1695276114~hmac=a353d6192d70738252d78731bc45a37fe10180618343ff6654c1cff7fbe89581');
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    width: 1500px;
+}
+.card-img-top:hover{
+    transform: scale(1.1);
+    transition: 2s;
+
+
+}
